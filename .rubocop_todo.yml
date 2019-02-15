@@ -1,0 +1,9 @@
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'jekyll-fontawesome.gemspec'
+
+Metrics/LineLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'jekyll-fontawesome.gemspec'
